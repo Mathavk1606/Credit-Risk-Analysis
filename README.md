@@ -7,6 +7,13 @@ An interactive credit risk analytics dashboard built with Streamlit, analyzing 3
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Demo
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/8b7b0c11-3026-4ae0-9849-eca9874dc485" />
+<img width="1919" height="753" alt="image" src="https://github.com/user-attachments/assets/c311c538-e910-4f93-8a00-07be812befa1" />
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/a2093ef8-7c40-49ad-b9d5-f529f2c5b648" />
+<img width="1620" height="830" alt="image" src="https://github.com/user-attachments/assets/4d2b3e1d-c95b-40c6-9783-12200b4ede8d" />
+
+
+
 
 ## Features
 
